@@ -31,7 +31,7 @@ intion();
 
                    Intent intent = new Intent(MainActivity.this,Sactivity.class);
                    startActivity(intent);
-                 
+
                }
 
                else if (loginteacher){

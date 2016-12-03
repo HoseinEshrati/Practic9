@@ -20,7 +20,7 @@ public class Controler {
 
     public boolean controlteacher(Teacher teacher){
 
-        if (teacher.name.equals("admin")&& teacher.family.equals("admin1")){
+        if (teacher.name.equals("admin")&& teacher.family.equals("admin2")){
 
             return true;
 
